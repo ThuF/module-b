@@ -1,0 +1,14 @@
+{
+    "name": "@thuf/module-b",
+    "version": "0.1.0",
+    "repository": {
+        "url": "https://github.com/ThuF/module-b.git",
+        "type": "git"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com"
+    },
+    "dependencies": {
+        "@thuf/module-a": "0.1.0"
+    }
+}
